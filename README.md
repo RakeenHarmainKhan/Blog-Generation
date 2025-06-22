@@ -8,11 +8,10 @@ Welcome to the **AI Blog Generator**, a sleek and simple web app that helps you 
 
 ## 📸 Preview
 
-| Input View | Output View |
-|------------|-------------|
-| ![Screenshot 2025-06-22 121546](https://github.com/user-attachments/assets/de9b9769-f031-4da9-8d05-088e2dea5c88)
- | ![Screenshot 2025-06-22 121754](https://github.com/user-attachments/assets/c9982a45-9af8-4852-94d6-7b66205fc60d)
- |
+
+ ![Screenshot 2025-06-22 121546](https://github.com/user-attachments/assets/de9b9769-f031-4da9-8d05-088e2dea5c88)
+ ![Screenshot 2025-06-22 121754](https://github.com/user-attachments/assets/c9982a45-9af8-4852-94d6-7b66205fc60d)
+
 
 ---
 
